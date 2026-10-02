@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "applications": {
+    "com.taziggg100.valatrene": {
+      "title": "VALAT RENE",
+      "short_description": "Manage tasks, containers, supplies, and attendance in one local workspace.",
+      "full_description": "VALAT RENE helps operations teams organize daily work without account setup or cloud sync. Create task records, assign owners, track due windows, and keep priority work visible from the dashboard.\n\nThe app also supports container movement, supply ordering, and attendance logs, giving supervisors a practical local workspace for day-to-day business coordination.",
+      "source_screenshots": [
+        "docs/screens/1.png",
+        "docs/screens/2.png",
+        "docs/screens/3.png"
+      ],
+      "generated_from": "existing repository listing metadata and README",
+      "generated_at": "2026-10-02T21:20:10.963954+00:00"
+    }
+  }
+}
