@@ -1,4 +1,4 @@
-name: valat_rene
+name: valatrene
 description: Operations workspace for task, container, supply, and attendance tracking.
 publish_to: 'none'
 version: 1.0.0+1
@@ -25,6 +25,6 @@ flutter_launcher_icons:
   android: true
   ios: false
   image_path: docs/icon.png
-  adaptive_icon_background: '#071B3A'
+  adaptive_icon_background: "#751FFF"
   adaptive_icon_foreground: docs/icon.png
   min_sdk_android: 23
