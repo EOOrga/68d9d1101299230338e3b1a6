@@ -1,0 +1,3 @@
+VALAT RENE helps operations teams organize daily work without account setup or cloud sync. Create task records, assign owners, track due windows, and keep priority work visible from the dashboard.
+
+The app also supports container movement, supply ordering, and attendance logs, giving supervisors a practical local workspace for day-to-day business coordination.
