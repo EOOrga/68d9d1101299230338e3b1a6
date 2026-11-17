@@ -30,9 +30,9 @@ class ValatReneApp extends StatelessWidget {
   }
 
   ThemeData _theme() {
-    const navy = Color(0xFF071B3A);
-    const orange = Color(0xFFD85D13);
-    const green = Color(0xFF2E7A3E);
+    const navy = Color(0xFFFF857A);
+    const orange = Color(0xFFFFC87A);
+    const green = Color(0xFFF4FF7A);
     const surface = Color(0xFFF5F7FA);
 
     final scheme =

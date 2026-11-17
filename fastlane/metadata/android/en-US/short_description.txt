@@ -1,0 +1,1 @@
+Manage tasks, containers, supplies, and attendance in one local workspace.
